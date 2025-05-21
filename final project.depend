@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1672449885 source:c:\users\dell\downloads\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	"functions.h"
+
+1672450645 c:\users\dell\downloads\final project\functions.h
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
